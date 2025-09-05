@@ -3,7 +3,7 @@
 
 <h2>Sobre</h2>
 
-<p>Projeto de uma jogo de adivinhar número desenvolvido no programa Next Education da Oracle e ALura</p>
+<p>Projeto de um jogo de adivinhar número desenvolvido no programa Next Education da Oracle e ALura</p>
 
 ## 🪄 Tecnologias
 <div>
